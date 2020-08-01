@@ -1,15 +1,15 @@
 @font-face {
-    src: url('/fonts/Rubik-Light.ttf');
+    src: url('fonts/Rubik-Light.ttf');
     font-family: Rl;
 }
 
 @font-face {
-    src: url('/fonts/Rubik-Medium.ttf');
+    src: url('fonts/Rubik-Medium.ttf');
     font-family: Rm;
 }
 
 @font-face {
-    src: url('/fonts/Rubik-Bold.ttf');
+    src: url('fonts/Rubik-Bold.ttf');
     font-family: Rb;
 }
 
